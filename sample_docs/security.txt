@@ -1,0 +1,7 @@
+Security Access Policy
+
+Employees must use multi-factor authentication for email, payroll, and all internal systems. If a user loses access to their authenticator app, they should contact the service desk and verify their identity with a manager-approved recovery code.
+
+Password resets are available through the self-service portal. Passwords must be at least twelve characters and cannot reuse the previous five passwords.
+
+Privileged access is reviewed every quarter. Managers are responsible for approving or removing access during the review window.

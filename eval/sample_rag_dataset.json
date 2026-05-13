@@ -1,0 +1,12 @@
+[
+  {
+    "question": "How can an employee recover multi-factor authentication access?",
+    "expected_source": "security.txt",
+    "required_terms": ["service desk", "recovery code"]
+  },
+  {
+    "question": "When should equipment requests be submitted for new employees?",
+    "expected_source": "hr_onboarding.txt",
+    "required_terms": ["five business days"]
+  }
+]
