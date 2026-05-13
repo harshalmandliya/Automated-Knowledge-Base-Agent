@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+backend/.env
+data/
+uploads/
+backend/uploads/
+backend/knowledge_base.db
+backend/vectorstore/faiss_index/
+explanation.md
+__pycache__/
+.pytest_cache/
+*.pyc
